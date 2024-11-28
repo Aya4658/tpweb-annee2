@@ -7,9 +7,13 @@
 
   h1 {
     font-family: 'cursive', sans-serif;
-    color: royalblue;
+    background-color: orange;
+    color: white;
     font-size: 2rem;
   }
+  body {
+    background: linear-gradient(to right, lightblue, pink);
+}
 
 
 
