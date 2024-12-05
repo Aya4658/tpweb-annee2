@@ -8,6 +8,11 @@
   h1 {
     text-align: center;
   }
+  div {
+    width: 200px;
+    height: 200px;
+    background: black;
+  }
   body {
     background: linear-gradient(to right, lightblue, pink);
 }
