@@ -8,15 +8,15 @@
   h1 {
     text-align: center;
   }
-  div {
+  .division{
     width: 200px;
     height: 200px;
     background: black;
   }
 
-  div2{
+  .division2{
     width: 200px;
-    height: 200px;
+    height: 400px;
     background: rgb(88, 19, 83);
     margin-top: 10px;
   }
