@@ -13,6 +13,14 @@
     height: 200px;
     background: black;
   }
+
+  div2{
+    width: 200px;
+    height: 200px;
+    background: rgb(88, 19, 83);
+    margin-top: 10px;
+  }
+
   body {
     background: linear-gradient(to right, lightblue, pink);
 }
